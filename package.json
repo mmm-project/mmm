@@ -1,0 +1,7 @@
+{
+  "name": "tsm",
+  "version": "1.0.0",
+  "description": "tiny service system for fullstack developer",
+  "main": "dist/index.js",
+  "license": "MIT"
+}
